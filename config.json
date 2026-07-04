@@ -39,5 +39,5 @@
   "DB_PATH": "bot_memory.db",
 
   "_SYSTEM_PROMPT": "Personalidad base del bot. Aquí defines lore, tono, estilo de respuesta, reglas de comportamiento y casas del servidor.",
-  "SYSTEM_PROMPT": ""
+  "SYSTEM_PROMPT": " "
 }
